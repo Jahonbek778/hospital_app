@@ -1,0 +1,12 @@
+1 Yaxshiyev Bobur 25 Yurak Toshkent 
+2 Salimov Shagboz 36 Asasb Navoiy
+3 Tohirov Farrux 56 Bosh Xorazim 
+4 Kuchimov Tohir 43 Buyrak Samarqand
+5 Tohirov Farrux 56 Bosh Xorazim
+6 Tohirov Mashhur 56 Bosh Surxondaryo
+7 Malikov Bobur 46 Asab Samarqand 
+8 Davranova Maftuna 67 Ko'z Qashqadaryo  
+9 Kamilov Davron 34 Bel Buxoro 
+10 Gapparov Shavkat 50 Teri Namangan 
+11 Bo'riyev Farrux 43 Buyrak Navoiy
+12 javlonbek radjabov 2 protata buxoro
