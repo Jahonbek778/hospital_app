@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0rXXhYqYhPjG2qKtdiD6Gjmh6HKfic0EyZ3ERyWbs8cuBEpK4/uMrGxDoovDW+wiqvO0i8uzVvMep4ia92GwQ==",
+  "dgSpecHash": "J4vc+deJozaBqoD/bLKy/Nv+GT4kfN8MW41yhSCrRiF4h8Dkrujw7tDgeoc8zhCFMCtjVIfQr4lxyXDTCmHEqQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\Poliklinika.csproj",
+  "projectFilePath": "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\Poliklinika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaxon\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Users\\jaxon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

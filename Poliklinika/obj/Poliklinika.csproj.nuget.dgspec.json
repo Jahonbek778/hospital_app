@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\Poliklinika.csproj": {}
+    "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\Poliklinika.csproj": {}
   },
   "projects": {
-    "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\Poliklinika.csproj": {
+    "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\Poliklinika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\Poliklinika.csproj",
+        "projectUniqueName": "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\Poliklinika.csproj",
         "projectName": "Poliklinika",
-        "projectPath": "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\Poliklinika.csproj",
+        "projectPath": "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\Poliklinika.csproj",
         "packagesPath": "C:\\Users\\jaxon\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects dotNET\\Shifoxona\\Poliklinika\\obj\\",
+        "outputPath": "C:\\Users\\jaxon\\Documents\\GitHub\\hospital_app\\Poliklinika\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaxon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,3 +17,22 @@ D:\Projects dotNET\Shifoxona\Poliklinika\obj\Debug\net5.0\Poliklinika.genruntime
 D:\Projects dotNET\Shifoxona\Poliklinika\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Projects dotNET\Shifoxona\Poliklinika\obj\Debug\net5.0\Poliklinika.csproj.CopyComplete
 D:\Projects dotNET\Shifoxona\Poliklinika\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.exe
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.deps.json
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.runtimeconfig.json
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.runtimeconfig.dev.json
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\ref\Poliklinika.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Poliklinika.pdb
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.csproj.AssemblyReference.cache
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.AssemblyInfoInputs.cache
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.AssemblyInfo.cs
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.csproj.CoreCompileInputs.cache
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.csproj.CopyComplete
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\ref\Poliklinika.dll
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.pdb
+C:\Users\jaxon\Documents\GitHub\hospital_app\Poliklinika\obj\Debug\net5.0\Poliklinika.genruntimeconfig.cache
